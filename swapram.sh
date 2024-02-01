@@ -2,7 +2,7 @@
 # =========================================
 # Quick Setup | Script Setup Manager
 # Edition : Stable Edition V1.0
-# Auther  : NevermoreSSH
+# Auther  : joysmark
 # (C) Copyright 2022
 # =========================================
 P='\e[0;35m'
@@ -14,8 +14,8 @@ clear
 echo -e "\e[36m╒════════════════════════════════════════════╕\033[0m"
 echo -e " \E[0;47;30m                 SWAP RAM                   \E[0m"
 echo -e "\e[36m╘════════════════════════════════════════════╛\033[0m
-\033[1;37mSwapRAM By NevermoreSSH\033[0m
-\033[1;37mTelegram : https://t.me/todfix667 \033[0m"
+\033[1;37mSwapRAM By joysmark\033[0m
+\033[1;37mTelegram : https://t.me/trikjoysmart \033[0m"
 echo -e ""
 echo -e "
  [\033[1;36m•1\033[0m]  Add 512MB RAM
